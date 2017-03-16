@@ -11,7 +11,7 @@ import java.util.Random;
  * org.dimigo.basic
  *   |_ Loop
  *
- * 1. 개요 :
+ * 1. 개요 : 무서운걔임
  * 2. 작성일 : 2017. 3. 15.
  * </pre>
  *
