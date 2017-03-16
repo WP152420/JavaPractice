@@ -47,6 +47,7 @@ public class Loop {
 				System.out.println(myc + "(으)로 설정되었습니다.");
 				break;
 			case 9:
+				System.out.println("이제 공부 ㄱㄱ");
 				break;
 			default:
 				System.out.println("없는 메뉴입니다!!");
