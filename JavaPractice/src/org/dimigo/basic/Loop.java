@@ -15,7 +15,7 @@ import java.util.Random;
  * 2. 작성일 : 2017. 3. 15.
  * </pre>
  *
- * @author : yoojin  
+ * @author : yoojin    
  * @version : 1.0
  */
 public class Loop {
