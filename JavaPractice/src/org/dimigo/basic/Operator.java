@@ -8,7 +8,7 @@ package org.dimigo.basic;
  * org.dimigo.basic
  *   |_ Operator
  *
- * 1. 개요 :
+ * 1. 개요 : 대한민국 커피 전문점 매출1위 디미베네의 연간 인건비를 계산해보자.
  * 2. 작성일 : 2017. 3. 14.
  * </pre>
  *
