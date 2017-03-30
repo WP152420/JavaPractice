@@ -10,7 +10,7 @@ package org.dimigo.oop;
  *
  * 1. 개요 :
  * 2. 작성일 : 2017. 3. 23.
- *</pre>
+ * </pre>
  *
  * @author : yoojin
  * @version : 1.0
@@ -21,34 +21,44 @@ public class Car {
 	private String color;
 	private int maxSpeed;
 	private int price;
-	public String getCompany(){
+
+	public String getCompany() {
 		return company;
 	}
-	public String getModel(){
+
+	public String getModel() {
 		return model;
 	}
-	public String getColor(){
+
+	public String getColor() {
 		return color;
 	}
-	public int getMaxSpeed(){
+
+	public int getMaxSpeed() {
 		return maxSpeed;
 	}
-	public int getPrice(){
+
+	public int getPrice() {
 		return price;
 	}
-	public void setCompany(String newCompany){
-		company=newCompany;
+
+	public void setCompany(String newCompany) {
+		company = newCompany;
 	}
-	public void setModel(String newModel){
-		model=newModel;
+
+	public void setModel(String newModel) {
+		model = newModel;
 	}
-	public void setColor(String newColor){
-		color=newColor;
+
+	public void setColor(String newColor) {
+		color = newColor;
 	}
-	public void setMaxSpeed(int newMaxSpeed){
-		maxSpeed=newMaxSpeed;
+
+	public void setMaxSpeed(int newMaxSpeed) {
+		maxSpeed = newMaxSpeed;
 	}
-	public void setPrice(int newPrice){
-		price=newPrice;
+
+	public void setPrice(int newPrice) {
+		price = newPrice;
 	}
 }
