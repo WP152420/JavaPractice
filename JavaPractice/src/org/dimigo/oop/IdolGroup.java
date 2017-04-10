@@ -15,7 +15,7 @@ package org.dimigo.oop;
  * @author : yoojin
  * @version : 1.0
  */
-public class idolGroup {
+public class IdolGroup {
 
 	public static void main(String[] args) {
 		String[] groupName = { "빅뱅", "2NE1", "걸스데이" };
