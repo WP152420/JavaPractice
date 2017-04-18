@@ -19,14 +19,10 @@ public class FamilyMember {
 	private static int memberCnt;
 	private String memberName;
 
-	FamilyMember() {
-		memberCnt++;
-	}
-
 	FamilyMember(String memberName) {
-		this();
+		memberCnt++;
 		this.memberName = memberName;
-		
+
 	}
 
 	public String getMemberName() {
