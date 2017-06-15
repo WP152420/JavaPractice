@@ -33,10 +33,9 @@ public class ArakoMenu {
 				BufferedReader reader = new BufferedReader(new FileReader("files/menu.txt"))) {
 			String str;
 			while ((str = br.readLine()) != null) {
-				writer.write(str);
-				writer.write("\n");
-				writer.flush();
+				writer.write(str + "\n");
 			}
+			writer.flush();
 			System.out.println("<< 메뉴 출력 >>");
 			String str1;
 			while ((str1 = reader.readLine()) != null) {
